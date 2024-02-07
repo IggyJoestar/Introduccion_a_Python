@@ -5,6 +5,7 @@ Para trabajar con la plantilla es necesario que descarguen el Visual Studio Code
 https://code.visualstudio.com/
 
 Luego de instalar el Visual Studio deben descargar la carpeta de "plantilla".
+https://drive.google.com/drive/folders/15ZP5qy8v3VreO7byr0NBvUWOafNfvKSf?usp=sharing
 
 Donde se trabajará mas con el elemento html.
 Aquí les dejo unos videos para que aprendan de modo general html:
