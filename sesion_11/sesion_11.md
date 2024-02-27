@@ -21,6 +21,7 @@ driver = webdriver.Chrome(options=options)
 ```python
 # ¿A qué página queremos ir?
 url=''
+driver.get(url)
 # ¿Qué elemento vamos a extraer?
 elemento= driver.find_element(By.XPATH,"")
 #recordar: By.XPATH ; By.ID ; By.CSS_SELECTOR ; By.CLASS_NAME ...
