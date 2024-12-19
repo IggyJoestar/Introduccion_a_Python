@@ -1,2 +1,2 @@
 # Introduccion_a_Python
-En este repositorio se suben algunos materiales usados en las clases de este curso pre-oficial de python.
+En este repositorio se suben los materiales usados en las clases de Introducción a python que dicté a unos compañeros en Enero y Febrero de 2024.
